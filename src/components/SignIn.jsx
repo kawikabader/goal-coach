@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
 class SignIn extends Component {
-  render(){
+  render() {
     return (
       <div>SignIn</div>
-    )
+    );
   }
 }
 
